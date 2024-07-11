@@ -1,0 +1,15 @@
+For the linear search function I used GeeksforGeeks for the setup.
+I also used programiz as well for a reference. 
+I used chatGPT to explain the enumerate, to clean the code up for me. 
+
+For the bubble sort function I used GeeksforGeeks for the setup.
+I also used programiz as well for a reference. 
+I also used codeacademy as well.
+
+The functions themselves were a little complex.
+It was nice to finally dive into Big O Notation, along with recusion this week.
+There were plenty of examples of code for me to use online, I needed chatGPT to help me run the test cases.
+This was a fun assignment. 
+
+
+
